@@ -1,0 +1,28 @@
+.dropdown:hover > .dropdown-menu {
+  display: block; }
+
+#info .info
+li {
+  display: flex; }
+  #info .info
+  li .header-box-icon {
+    width: 20%; }
+  #info .info
+  li .header-box-info {
+    width: 80%; }
+
+#html {
+  position: relative;
+  height: 50vh;
+  background-image: url("../img/html/cta-background.jpg");
+  background-size: cover; }
+  #html .black {
+    position: absolute;
+    background-color: black;
+    height: 50vh; }
+
+#boy {
+  height: 100vh;
+  background-image: url("../img/boy/features-background.jpg"); }
+
+/*# sourceMappingURL=style.css.map */
